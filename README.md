@@ -1,10 +1,9 @@
 <h1>Hi, I'm Ervin! <br/>
-  
-<h2>🔭 I’m currently working on ...</h2>
 
-- <b>Creating a walkthrough of me setting up an Active Directory Lab using Windows 2019</b>
-- <b>Creating a walkthrough of me using ServiceNow environment with NowLearning</b>
-- <b>Modifying Home Network to faciliate more security & options</b>
+<h2>🖥️ Projects: </h2>
+
+- <b>Active Directory in a Virtual Environment using VirtualBox, Windows 2019 and Windows 10</b>
+  - [Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
 
 <h2>📜 Certifications: </h2>
 
@@ -19,6 +18,11 @@
   - [Reapers Escape Game](https://github.com/Ervin-Thorpe/Reapers-Escape-Game-Demo)
 - <b>Gardener's Diary Application (HTML, CSS, JavaScript, SQL & PHP)</b>
   - [Gardener's Diary](https://github.com/Ervin-Thorpe/Gardeners-Diary-App)
+  
+<h2>🔭 I’m currently working on ...</h2>
+
+- <b>Creating a walkthrough of me using ServiceNow environment with NowLearning</b>
+- <b>Modifying Home Network to faciliate more security & options</b>
 
 <h2> 📫 How to reach me:</h2>
 
