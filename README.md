@@ -26,11 +26,8 @@
 
 <h2> 📫 How to reach me:</h2>
 
-[<img align="left" alt="ErvinThorpe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ErvinThorpe | LinkedIn" width="22px" src="https://simpleicons.org/icons/outline.svg" />][Outlook]
-
-[linkedin]: https://www.linkedin.com/in/ervin-thorpe/
-[Outlook]: ervinthorpe@outlook.com
+- You can message, follow or connect with me on LinkedIn:
+  - [LinkedIn](https://www.linkedin.com/in/ervin-thorpe/)
 <!--
 Here are some ideas to get you started:
 
