@@ -1,12 +1,16 @@
 <h1>Welcome to My GitHub!</h1>
 
-<b>👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, cybersecurity, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.</b>
+👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, cybersecurity, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
 </br>
 <h2>🖥️ Projects: </h2>
+<p>For these projects, I would like to expand on them when possible. Further developing more knowledge around each topic.</p>
 
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
+  - Future ideas for Project:
+    - Setup User Management (More Organisational Units) and Group Policies
+    - Implement a Multi-Site AD DS Setup
 
 <h2>📜 Certifications: </h2>
 
