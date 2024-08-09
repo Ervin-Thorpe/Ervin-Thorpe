@@ -28,6 +28,7 @@
   
 <h2>🔭 I’m currently working on ...</h2>
 
+- <b>Setting up a Linux Machine using Hyper-V on a Windows 10 OS</b>
 - <b>Creating a walkthrough of me using ServiceNow environment with NowLearning</b>
 - <b>Modifying Home Network to faciliate more security & options</b>
 
