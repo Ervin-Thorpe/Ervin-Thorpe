@@ -8,10 +8,10 @@
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
-  - Future ideas for Project:
-    - Setup User Management (More Organisational Units) and Group Policies
-    - Implement a Multi-Site AD DS Setup
-
+- <b>ServiceNow: IT Support Operations Guide:</b>
+  - Covers Incident Management, Request Fulfilment, Knowledge Management and Basic Reporting within ServiceNow
+  - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide )
+ 
 <h2>📜 Certifications: </h2>
 
 - <b>ITIL4 Foundation Certification</b>
@@ -32,8 +32,8 @@
   
 <h2>🔭 I’m currently working on ...</h2>
 
-- <b>Setting up a Linux Machine using Hyper-V on a Windows 10 OS</b>
-- <b>Creating a walkthrough of me using ServiceNow environment with NowLearning</b>
+- <b>Implementation of Self-Hosted osTicket System for Home Network Support Management</b>
+- <b>Building a Budget Server Using Spare and Affordable Computer Parts</b>
 - <b>Modifying Home Network to faciliate more security & options</b>
 
 <h2> 📫 How to reach me:</h2>
