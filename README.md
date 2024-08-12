@@ -10,7 +10,9 @@
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
 - <b>ServiceNow: IT Support Operations Guide:</b>
   - Covers Incident Management, Request Fulfilment, Knowledge Management and Basic Reporting within ServiceNow
-  - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide )
+  - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide)
+- <b>Implementation of Self-Hosted osTicket System for Home Network Support Management: </b>
+  - (Work in Progress)
  
 <h2>📜 Certifications: </h2>
 
@@ -32,7 +34,6 @@
   
 <h2>🔭 I’m currently working on ...</h2>
 
-- <b>Implementation of Self-Hosted osTicket System for Home Network Support Management</b>
 - <b>Building a Budget Server Using Spare and Affordable Computer Parts</b>
 - <b>Modifying Home Network to faciliate more security & options</b>
 
