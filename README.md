@@ -5,7 +5,7 @@
 <h2>🖥️ Projects: </h2>
 <p>For these projects, I would like to expand on them when possible. Further developing more knowledge around each topic.</p>
 
-- <b>Implementing osTicket on Microsoft Azure for Cloud-Based Ticketing Support System: </b>
+- <b>Implementing osTicket on Microsoft Azure for Cloud-Based Ticketing Support System (Still writing up Part 2 & 3, will be posted very soon): </b>
   - Part 1 of the osTicket on Microsoft Azure, focusing on prerequisites and installations for setting up a cloud-based ticketing system.
   - [Project Link: Azure osTicket Prereqs and Installs](https://github.com/Ervin-Thorpe/Azure-osTicket-Prereqs-and-Installs)
 - <b>Active Directory in a Virtual Environment:</b>
