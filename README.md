@@ -6,7 +6,7 @@
 
 - <b>Comprehensive Guide to Deploying and Configuring a Ticketing System on a Windows 10 Virtual Machine in Microsoft Azure: </b>
   - This project guides the deployment and configuration of a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with practical use cases for managing and resolving tickets within the system.
-  - [Project Link: 3-Part Project of Setting up and using the Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Azure-osTicket-Post-Install-and-Config) 
+  - [Project Link: 3-Part Project of Setting up and using the Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Cloud-osTicket-Windows10-Azure) 
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
