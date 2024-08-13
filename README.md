@@ -5,14 +5,15 @@
 <h2>🖥️ Projects: </h2>
 <p>For these projects, I would like to expand on them when possible. Further developing more knowledge around each topic.</p>
 
+- <b>Implementing osTicket on Microsoft Azure for Cloud-Based Ticketing Support System: </b>
+  - Part 1 of the osTicket on Microsoft Azure, focusing on prerequisites and installations for setting up a cloud-based ticketing system.
+  - [Project Link: Azure osTicket Prereqs and Installs](https://github.com/Ervin-Thorpe/Azure-osTicket-Prereqs-and-Installs)
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
 - <b>ServiceNow: IT Support Operations Guide:</b>
   - Covers Incident Management, Request Fulfilment, Knowledge Management and Basic Reporting within ServiceNow
   - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide)
-- <b>Implementation of Self-Hosted osTicket System for Home Network Support Management: </b>
-  - (Work in Progress)
  
 <h2>📜 Certifications: </h2>
 
