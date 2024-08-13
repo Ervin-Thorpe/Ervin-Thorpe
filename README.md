@@ -3,13 +3,10 @@
 👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, cybersecurity, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
 </br>
 <h2>🖥️ Projects: </h2>
-<p>For these projects, I would like to expand on them when possible. Further developing more knowledge around each topic.</p>
 
-- <b>Implementing osTicket on Microsoft Azure for Cloud-Based Ticketing Support System: </b>
-  - Part 1 of the osTicket on Microsoft Azure, focusing on prerequisites and installations for setting up a cloud-based ticketing system.
-  - [Project Link: Azure osTicket Prereqs and Installs](https://github.com/Ervin-Thorpe/Azure-osTicket-Prereqs-and-Installs)
-  - Part 2 of the osTicket on Microsoft Azure, focusing on post-installations and configurations for the cloud-based ticketing system.
-  - [Project Link: Azure osTicket Post-Installs and Configs](https://github.com/Ervin-Thorpe/Azure-osTicket-Post-Install-and-Config) 
+- <b>Comprehensive Guide to Deploying and Configuring a Ticketing System on a Windows 10 Virtual Machine in Microsoft Azure: </b>
+  - This project guides the deployment and configuration of a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with practical use cases for managing and resolving tickets within the system.
+  - [Project Link: 3-Part Project of Setting up and using the Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Azure-osTicket-Post-Install-and-Config) 
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
