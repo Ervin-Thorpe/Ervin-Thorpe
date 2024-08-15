@@ -4,9 +4,9 @@
 </br>
 <h2>🖥️ Projects: </h2>
 
-- <b>⭐ 3-Part Comprehensive Project to Creating, Configuring and Deploying our own Ticketing System on Windows 10 in Azure: </b>
+- <b>⭐ 4-Part Comprehensive Project to Creating, Configuring and Deploying our own Ticketing System on Windows 10 in Azure: </b>
   - This project guides the creation, configuration and deployment of a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with use cases for managing and resolving tickets.
-  - [Project Link: 3-Part Project of creating and using our own Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Cloud-osTicket-Windows10-Azure) 
+  - [Project Link: 4-Part Project of creating and using our own Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Cloud-osTicket-Windows10-Azure) 
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
