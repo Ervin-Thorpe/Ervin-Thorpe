@@ -34,7 +34,7 @@
   
 <h2>🔭 I’m currently working on ...</h2>
 
-- <b>Building a Budget Server Using Spare and Affordable Computer Parts</b>
+- <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b>
 - <b>Modifying Home Network to faciliate more security & options</b>
 
 <h2> 📫 How to reach me:</h2>
