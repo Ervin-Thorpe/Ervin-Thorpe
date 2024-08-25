@@ -11,7 +11,7 @@
 - <b>Active Directory in a Virtual Environment:</b>
   - Simulated a complete AD setup using VirtualBox with Windows Server 2019 and Windows 10 clients
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
-  - NOTE: I'll be updating this and creating an Active Directory on Windows Server 2022 VM on Azure
+  - NOTE: I’ll update and set up a more in-depth Active Directory Project on a Windows Server 2022 VM in Azure.
 - <b>ServiceNow: IT Support Operations Guide:</b>
   - Covers Incident Management, Request Fulfilment, Knowledge Management and Basic Reporting within ServiceNow
   - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide)
