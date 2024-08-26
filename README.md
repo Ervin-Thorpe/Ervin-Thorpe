@@ -42,7 +42,6 @@
   
 <h2>🔭 I’m currently working on ...</h2>
 
-- <b>Deploying an On-Premises Active Directory on Windows 2022 VM from Azure</b> (Expected 28/08)
 - <b>Getting my CISCO Cybersecurity Essentials Certificate</b> (Expected 31/08)
 - <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b> (Expected 15/09)
 - <b>Building my own Website to showcase all my projects</b> (Expected 20/09)
