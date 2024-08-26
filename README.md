@@ -4,7 +4,7 @@
 </br>
 <h2>🖥️ Projects: </h2>
 
-- <b>⭐ 4-Part Comprehensive Project with End-to-End IT Helpdeskm Deployment and Administration on Microsoft Azure: </b>
+- <b>⭐ 4-Part Comprehensive Project with End-to-End IT Helpdesk Deployment and Administration on Microsoft Azure: </b>
   - This project showcases the End-to-End of my progression in deploying a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with use cases for managing and resolving tickets.
   - [Project Link: 4-Part Project of creating and using our own Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Cloud-osTicket-Windows10-Azure)
   - [Link to Website](https://www.ervintechsupport.com/)
@@ -37,9 +37,9 @@
 <h2>🔭 I’m currently working on ...</h2>
 
 - <b>Deploying an On-Premises Active Directory on Windows 2022 VM from Azure</b> (Expected 28/08)
-- <b>Building my own Website to showcase all my projects</b>
+- <b>Building my own Website to showcase all my projects</b> (Expected 20/09)
 - <b>Getting my CISCO Cybersecurity Essentials Certificate</b> (Expected 31/08)
-- <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b>
+- <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b> (Expected 15/09)
 - <b>Modifying Home Network to faciliate more security & options</b>
 
 <h2> 📫 How to reach me:</h2>
