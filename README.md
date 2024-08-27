@@ -3,7 +3,7 @@
 👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, cybersecurity, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
 </br>
 <h2>🖥️ IT-Related Projects: </h2>
-<h3>Enterprise IT Simulations Portfolio:</h3>
+<h3>Business-Grade IT Simulations Portfolio:</h3>
 
 - <b>⭐ 4-Part Comprehensive Project with End-to-End IT Helpdesk Deployment and Administration on Microsoft Azure: </b>
   - This project showcases the End-to-End of my progression in deploying a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with use cases for managing and resolving tickets.
@@ -11,7 +11,7 @@
   - [Link to Website](https://www.ervintechsupport.com/)
 - <b>⭐ 3-Part Comprehensive Project of setting up an Active Directory using Windows Virtual Machines on Microsoft Azure:</b>
   - Simulating a complete Active Directory setup to reflect a typical enterprise setup using Virtual Machines on Microsoft Azure:
-  - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
+  - [Project Link: Azure Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-VM-Azure)
 
 <h3>IT Skills Development Portfolio:</h3>
   
