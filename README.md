@@ -41,11 +41,17 @@
   - [Project Link: Gardener's Diary](https://github.com/Ervin-Thorpe/Gardeners-Diary-App)
   
 <h2>🔭 I’m currently working on ...</h2>
+<h3>Projects</h3>
 
-- <b>Getting my CISCO Cybersecurity Essentials Certificate</b> (Expected 31/08)
 - <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b> (Expected 15/09)
-- <b>Building my own Website to showcase all my projects</b> (Expected 20/09)
+- <b>Building my own Website to showcase all my projects</b> (Expected 30/09)
 - <b>Modifying Home Network to faciliate more security & options</b>
+
+<h3>Certifications</h3>
+
+- <b>Certificate for CISCO Cyber Security Essentials</b> (Expected 31/08)
+- <b>Certificate for MS-900 Microsoft 365 Fundamentals</b> (Expected 30/09) 
+- <b>Certificate for CompTIA A+ (Expected 31/10)</b>
 
 <h2> 📫 How to reach me:</h2>
 
