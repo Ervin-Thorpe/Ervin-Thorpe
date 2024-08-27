@@ -45,13 +45,13 @@
 
 - <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b> (Expected 15/09)
 - <b>Building my own Website to showcase all my projects</b> (Expected 30/09)
-- <b>Modifying Home Network to faciliate more security & options</b>
+- <b>Modifying Home Network to faciliate more security & options</b> (Expected 30/09)
 
 <h3>Certifications</h3>
 
 - <b>Certificate for CISCO Cyber Security Essentials</b> (Expected 31/08)
 - <b>Certificate for MS-900 Microsoft 365 Fundamentals</b> (Expected 30/09) 
-- <b>Certificate for CompTIA A+ (Expected 31/10)</b>
+- <b>Certificate for CompTIA A+</b> (Expected 31/10)
 
 <h2> 📫 How to reach me:</h2>
 
