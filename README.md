@@ -9,7 +9,7 @@
   - End-to-End of my progression in deploying a ticketing system using an osTicket open-source on a Windows 10 Virtual Machine in Microsoft Azure, along with use cases for managing and resolving tickets.
   - [Project Link: 4-Part Project of creating and using our own Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Helpdesk-Ticketing-System)
   - [Link to Website](https://www.ervintechsupport.com/)
-- <b>⭐ 4-Part Comprehensive Project of setting up an in-depth Active Directory using Windows Virtual Machines on Microsoft Azure:</b>
+- <b>⭐ 4-Part In-Depth Project of Configuring, Managing and Administrating an Active Directory using Windows 2022:</b>
   - Simulating a complete Active Directory setup to reflect a typical enterprise setup using Virtual Machines on Microsoft Azure:
   - [Project Link: Azure Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-VM-Azure)
 
