@@ -5,11 +5,11 @@
 <h2>🖥️ IT-Related Projects: </h2>
 <h3>Business-Grade IT Simulations Portfolio:</h3>
 
-- <b>⭐ 4-Part Comprehensive Project with End-to-End IT Helpdesk Deployment and Administration on Microsoft Azure: </b>
-  - Deployed an osTicket system on a Windows 10 VM in Microsoft Azure, including use cases for managing and resolving tickets.
-  - [Project Link: 4-Part Project of creating and using our own Ticketing System in the Cloud](https://github.com/Ervin-Thorpe/Helpdesk-Ticketing-System)
-  - [Link to Website](https://www.ervintechsupport.com/)
-- <b>⭐ 4-Part In-Depth Project of Configuring, Managing and Administrating an Active Directory using Windows 2022:</b>
+- <b>⭐ 4-Part Comprehensive IT Helpdesk Deployment and Administration on Microsoft Azure: </b>
+  - Deployed an End-to-End Helpdesk system on a Windows 10 VM in Microsoft Azure, including use cases for tickets.
+  - [Project Link: 4-Part Project of Deploying and Administrating our own Ticketing System](https://github.com/Ervin-Thorpe/Helpdesk-Ticketing-System)
+  - [Website: ErvinTechSupport](https://www.ervintechsupport.com/)
+- <b>⭐ 4-Part In-Depth Configuration, Management and Administration of an Active Directory using Windows 2022:</b>
   - Simulated a full Active Directory setup on Azure VMs to mirror a typical enterprise environment.
   - [Project Link: Azure Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-VM-Azure)
 
