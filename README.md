@@ -1,6 +1,6 @@
 <h1>Welcome to My GitHub!</h1>
 
-👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, cybersecurity, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
+👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, troubleshooting, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
 </br>
 <h2>🖥️ IT-Related Projects: </h2>
 <h3>Business-Grade IT Simulations Portfolio:</h3>
