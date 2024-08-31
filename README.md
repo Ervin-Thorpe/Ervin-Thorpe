@@ -3,7 +3,7 @@
 👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, troubleshooting, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
 </br>
 <h2>🖥️ IT-Related Projects: </h2>
-<h3>Business-Grade IT Simulations Portfolio:</h3>
+<h3>Extensive IT Simulation Portfolio:</h3>
 
 - <b>⭐ 4-Part Comprehensive IT Helpdesk Deployment and Administration on Microsoft Azure: </b>
   - Deployed an End-to-End Helpdesk system on a Windows 10 VM in Microsoft Azure, including use cases for tickets.
