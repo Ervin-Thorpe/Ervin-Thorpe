@@ -26,10 +26,10 @@
 
 - <b>ITIL4 Foundation Certification</b>
   - Certified in ITIL4, demonstrating knowledge of IT service management best practices and frameworks.
-  - [Image Link: ITIL4](https://imgur.com/a/X9vazz8)
+  - [ITIL4 Certificate](https://imgur.com/a/X9vazz8)
 - <b>Cyber Security Bootcamp Certification from Althaus</b>
-  - Completed a Cyber Security Bootcamp, covering essential cybersecurity principles.
-  - [Image Link: Cyber Security Bootcamp](https://imgur.com/a/0wpA69Y)
+  - Certified in CISCO Cyber Security Essentials - Althaus, covering essential cybersecurity principles.
+  - [CISCO Cyber Security Essentials Certificate](https://drive.google.com/file/d/1o14QtnsPjYBaP0hQsMZ1S90HSYbORvTV/view?usp=drive_link)
 
 <h2>👨‍💻 Programming Development Projects:</h2>
 
@@ -49,7 +49,6 @@
 
 <h3>Certifications</h3>
 
-- <b>Certificate for CISCO Cyber Security Essentials</b> (Expected 02/09)
 - <b>Certificate for MS-900 Microsoft 365 Fundamentals</b> (Expected 04/10) 
 - <b>Certificate for CompTIA A+</b> (Expected 04/11)
 
