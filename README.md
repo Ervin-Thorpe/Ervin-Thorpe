@@ -1,7 +1,12 @@
 <h1>Welcome to My GitHub!</h1>
 
 👋 Hi there! I'm Ervin, a passionate aspiring IT enthusiast with current focus on systems administration, troubleshooting, and software development. I love exploring new technologies, solving problems, and continually expanding my skill set.
-</br>
+<p align="center">
+
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/7c8b954f-223d-456c-9f86-23938d6bffec)](https://www.youtube.com/watch?v=RFmuqW46HQY)
+
+</p>
+
 <h2>🖥️ IT-Related Projects: </h2>
 <h3>Extensive IT Simulation Portfolio:</h3>
 
