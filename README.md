@@ -50,7 +50,7 @@
 
 - <b>Building a Budget Server and turning it into a Personal Media Streaming Platform</b> (Expected 30/09)
 - <b>Building my own Website to showcase all my projects</b> (Expected 30/09)
-- <b>Modifying Home Network to faciliate more security & options</b> (Expected 30/09)
+- <b>Modifying Home Network to faciliate more security & options</b>
 
 <h3>Certifications</h3>
 
