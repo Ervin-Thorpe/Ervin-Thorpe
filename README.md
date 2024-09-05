@@ -20,7 +20,7 @@
   - [Project Link: Active Directory Project](https://github.com/Ervin-Thorpe/Active-Directory-Lab)
 - <b>ServiceNow: IT Support Operations Guide:</b>
   - Covers Incident Management, Request Fulfilment, Knowledge Management and Basic Reporting within ServiceNow
-  - [Project Link: ServiceNow: IT Support Operations Guide](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support-Operations-Guide)
+  - [Project Link: ServiceNow - IT Support](https://github.com/Ervin-Thorpe/ServiceNow-IT-Support)
  
 <h2>📜 Certifications: </h2>
 
