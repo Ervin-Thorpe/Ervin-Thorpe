@@ -49,7 +49,7 @@
 
 <h3>Certifications</h3>
 
-- <b>Certificate for MS-900 Microsoft 365 Fundamentals</b> (Expected 04/10) 
+- <b>Certificate for MS-900 Microsoft 365 Fundamentals</b> (Expected 30/9) 
 - <b>Certificate for CompTIA A+</b> (Expected 04/11)
 
 <h2> 📫 How to reach me:</h2>
